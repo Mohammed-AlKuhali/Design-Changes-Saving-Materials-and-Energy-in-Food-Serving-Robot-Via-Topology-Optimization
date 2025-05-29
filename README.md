@@ -67,11 +67,11 @@ Our case study robot—**Bento-bot** (290 × 480 × 198 mm, 7.5 kg nominal load)
 
 | Visual                                                          | Take-away                                                     |
 | --------------------------------------------------------------- | ------------------------------------------------------------- |
-| <img src="door-before-after.png" width="260">          | Doors shed **\~⅓ mass** with identical kinematics.            |
-| <img src="tray-deformation-compare.png" width="340">   | Tray deflection ↑ only **0.016 mm** after **-73 % mass** cut. |
-| <img src="electronics-stress-compare.png" width="340"> | ABS/PEEK box keeps stress within allowable +2 MPa rise.       |
-| <img src="power-consumption.png" width="320">          | Motor power drops up to **45 %** (no-load) after mass cut.    |
-| <img src="battery-runtime.png" width="320">            | Full-load runtime gains **\~34 %**.                           |
+| <img src="docs/img/door-before-after.png" width="260">          | Doors shed **\~⅓ mass** with identical kinematics.            |
+| <img src="docs/img/tray-deformation-compare.png" width="340">   | Tray deflection ↑ only **0.016 mm** after **-73 % mass** cut. |
+| <img src="docs/img/electronics-stress-compare.png" width="340"> | ABS/PEEK box keeps stress within allowable +2 MPa rise.       |
+| <img src="docs/img/power-consumption.png" width="320">          | Motor power drops up to **45 %** (no-load) after mass cut.    |
+| <img src="docs/img/battery-runtime.png" width="320">            | Full-load runtime gains **\~34 %**.                           |
 
 ---
 
